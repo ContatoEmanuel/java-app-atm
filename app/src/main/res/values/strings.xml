@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ATM Consultoria</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ATM Consultoria</string>
+    <string name="nav_header_subtitle">atendimento@atmconsultoria.com.br</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_principal">Principal</string>
+    <string name="menu_servicos">Serviços</string>
+    <string name="menu_clientes">Clientes</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_sobre">Sobre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sistema_de_gest_o_de_qualidade">Sistema de Gestão de Qualidade</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_donec_ipsum_lectus_tristique_ac_nulla_et_euismod_efficitur_justo_duis_et_nunc_lobortis_risus_euismod_consectetur_maecenas_pharetra_arcu_a_ipsum_venenatis_vitae_consequat_nisi_malesuada_etiam_feugiat_quam_at_massa_malesuada_non_ornare_sapien_feugiat_in_blandit_auctor_venenatis_pellentesque_risus_nunc_convallis_nec_turpis_nec_euismod_suscipit_massa_nullam_rutrum_est_in_mattis_sagittis_in_sed_tempus_turpis_duis_nec_pharetra_velit_vestibulum_vestibulum_non_ex_quis_volutpat_etiam_eget_finibus_ligula_praesent_dapibus_quam_vel_mauris_congue_pulvinar_cras_aliquam_est_lacus_at_posuere_ante_blandit_vel">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ipsum lectus, tristique ac nulla et, euismod efficitur justo. Duis et nunc lobortis risus euismod consectetur. Maecenas pharetra arcu a ipsum venenatis, vitae consequat nisi malesuada. Etiam feugiat quam at massa malesuada, non ornare sapien feugiat. In blandit auctor venenatis. Pellentesque risus nunc, convallis nec turpis nec, euismod suscipit massa. Nullam rutrum est in mattis sagittis. In sed tempus turpis. Duis nec pharetra velit. Vestibulum vestibulum non ex quis volutpat. Etiam eget finibus ligula. Praesent dapibus quam vel mauris congue pulvinar. Cras aliquam est lacus, at posuere ante blandit vel.</string>
+    <string name="indicadores_de_desempenho">Indicadores de Desempenho</string>
+    <string name="duis_et_ligula_in_mi_ornare_aliquet_nam_condimentum_viverra_tortor_eget_gravida_enim_commodo_eget_ut_id_ante_convallis_cursus_lectus_vitae_fermentum_mi_quisque_posuere_convallis_diam_ut_lobortis_morbi_vel_varius_justo_nulla_non_massa_lacus_nulla_convallis_faucibus_aliquet_phasellus_lectus_nunc_interdum_et_nunc_eget_sodales_accumsan_velit_integer_porttitor_neque_nulla_quis_aliquam_risus_vehicula_non_etiam_ornare_quam_eu_nibh_interdum_in_rhoncus_nibh_luctus_aliquam_et_mi_at_lectus_aliquam_egestas_sit_amet_quis_risus_aliquam_porttitor_nisl_vel_dictum_euismod_magna_ipsum_condimentum_sapien_sit_amet_gravida_nisi_diam_ac_dui_quisque_dolor_ex_volutpat_vel_venenatis_ac_commodo_in_orci_suspendisse_finibus_leo_et_mattis_suscipit_arcu_tortor_accumsan_eros_sit_amet_sagittis_lorem_tortor_ut_eros_maecenas_sed_tortor_dui_maecenas_dapibus_magna_id_venenatis_cursus_ex_neque_faucibus_tortor_a_viverra_ante_turpis_at_libero">Duis et ligula in mi ornare aliquet. Nam condimentum viverra tortor, eget gravida enim commodo eget. Ut id ante convallis, cursus lectus vitae, fermentum mi. Quisque posuere convallis diam ut lobortis. Morbi vel varius justo. Nulla non massa lacus. Nulla convallis faucibus aliquet. Phasellus lectus nunc, interdum et nunc eget, sodales accumsan velit. Integer porttitor neque nulla, quis aliquam risus vehicula non. Etiam ornare quam eu nibh interdum, in rhoncus nibh luctus. Aliquam et mi at lectus aliquam egestas sit amet quis risus. Aliquam porttitor, nisl vel dictum euismod, magna ipsum condimentum sapien, sit amet gravida nisi diam ac dui. Quisque dolor ex, volutpat vel venenatis ac, commodo in orci. Suspendisse finibus, leo et mattis suscipit, arcu tortor accumsan eros, sit amet sagittis lorem tortor ut eros. Maecenas sed tortor dui. Maecenas dapibus, magna id venenatis cursus, ex neque faucibus tortor, a viverra ante turpis at libero.</string>
+    <string name="clientes">Clientes</string>
+    <string name="em_mais_de_15_anos_de_existencia_a_atm_acumula_experi_ncia_em_servi_os_de_empresas_nacionais_e_multinacionais_de_diversos_portes_tendo_atendendo_mais_de_1000_empresas_desde_de_sua_abertura">Em mais de 15 anos de existencia a atm acumula experiência em serviços de empresas nacionais e multinacionais de diversos portes, tendo atendendo mais de 1000 empresas desde de sua abertura.</string>
+</resources>

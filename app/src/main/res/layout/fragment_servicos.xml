@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.servicos.ServicosFragment">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/sistema_de_gest_o_de_qualidade"
+        android:textAlignment="viewStart"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_donec_ipsum_lectus_tristique_ac_nulla_et_euismod_efficitur_justo_duis_et_nunc_lobortis_risus_euismod_consectetur_maecenas_pharetra_arcu_a_ipsum_venenatis_vitae_consequat_nisi_malesuada_etiam_feugiat_quam_at_massa_malesuada_non_ornare_sapien_feugiat_in_blandit_auctor_venenatis_pellentesque_risus_nunc_convallis_nec_turpis_nec_euismod_suscipit_massa_nullam_rutrum_est_in_mattis_sagittis_in_sed_tempus_turpis_duis_nec_pharetra_velit_vestibulum_vestibulum_non_ex_quis_volutpat_etiam_eget_finibus_ligula_praesent_dapibus_quam_vel_mauris_congue_pulvinar_cras_aliquam_est_lacus_at_posuere_ante_blandit_vel"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/indicadores_de_desempenho"
+        android:textAlignment="viewStart"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/duis_et_ligula_in_mi_ornare_aliquet_nam_condimentum_viverra_tortor_eget_gravida_enim_commodo_eget_ut_id_ante_convallis_cursus_lectus_vitae_fermentum_mi_quisque_posuere_convallis_diam_ut_lobortis_morbi_vel_varius_justo_nulla_non_massa_lacus_nulla_convallis_faucibus_aliquet_phasellus_lectus_nunc_interdum_et_nunc_eget_sodales_accumsan_velit_integer_porttitor_neque_nulla_quis_aliquam_risus_vehicula_non_etiam_ornare_quam_eu_nibh_interdum_in_rhoncus_nibh_luctus_aliquam_et_mi_at_lectus_aliquam_egestas_sit_amet_quis_risus_aliquam_porttitor_nisl_vel_dictum_euismod_magna_ipsum_condimentum_sapien_sit_amet_gravida_nisi_diam_ac_dui_quisque_dolor_ex_volutpat_vel_venenatis_ac_commodo_in_orci_suspendisse_finibus_leo_et_mattis_suscipit_arcu_tortor_accumsan_eros_sit_amet_sagittis_lorem_tortor_ut_eros_maecenas_sed_tortor_dui_maecenas_dapibus_magna_id_venenatis_cursus_ex_neque_faucibus_tortor_a_viverra_ante_turpis_at_libero"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+</androidx.constraintlayout.widget.ConstraintLayout>
